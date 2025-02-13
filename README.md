@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nagi</h1>
 <h3 align="center">A Software engineer who never stops building</h3>
 
-<!-- - 🔭 I’m currently building [Hypersender](https://hypersender.com/en) -->
+- 🔭 I’m currently building [Hypersender](https://hypersender.com/en) 
 
-- 🌱 I’m currently learning **Database and SQL**
+- 🌱 I’m constantly learning **Database and SQL**
 
 - 📝 I write about every I learn on [Ahmednagi.com](https://ahmednagi.com)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [X (Twitter)](https://x.com/nagiworks), [LinkedIn](https://linkedin.com/in/ahmednagi)
 
-- ⚡ Fun fact **I scroll through Twitter while frontend assets done building.**
+- ⚡ Fun fact **I scroll through Twitter/X while frontend assets done building.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagi1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nagi1" /> </p>
 
