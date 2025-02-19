@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nagi</h1>
 <h3 align="center">A Software engineer who never stops building</h3>
 
-- 🔭 I’m currently building [Hypersender](https://hypersender.com/en) 
+# - 🔭 I’m currently building [Hypersender](https://hypersender.com/en) 
 
 - 🌱 I’m constantly learning **Database and SQL**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Mysql, Vuejs, Docker and Devops.**
 
-- 📫 How to reach me [X (Twitter)](https://x.com/nagiworks), [LinkedIn](https://linkedin.com/in/ahmednagi)
+# - 📫 How to reach me [X (Twitter)](https://x.com/nagiworks), [LinkedIn](https://linkedin.com/in/ahmednagi)
 
 - ⚡ Fun fact **I scroll through Twitter/X while frontend assets done building.**
 
