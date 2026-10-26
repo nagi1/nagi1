@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nagi</h1>
 <h3 align="center">A Software engineer who never stops building</h3>
 
- - 🔭 I’m currently building [Hypersender](https://hypersender.com/en)
-
 - 🌱 I’m constantly learning **Database and SQL**
 
 - 📝 I write about every I learn on [Ahmednagi.com](https://ahmednagi.com)
